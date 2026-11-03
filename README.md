@@ -4,3 +4,4 @@ you execute this script by:
 * logging in as a root user or have rights to execute scripts
 * give this file an execution permission "chmod +x server-stats.sh"
 * then run ./server-stats.sh
+This is the project page URL https://roadmap.sh/projects/server-stats
